@@ -1,4 +1,4 @@
-# Dietetica
+# Proyect MVC (Dietetica)
 
 Este proyecto consiste en administrar las ventas diarias de un negocio: ingresandolas, en la cual podes borrar solamente las del dia actual y con esos datos sacar conclusiones como: venta total del dia, mes, año, también, dia que más y menos se vendió, promedio por dia entre otras.
 
